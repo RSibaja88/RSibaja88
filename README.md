@@ -1,8 +1,6 @@
 ### Hi there 👋
 I'm Rodrigo Sibaja, a Full Stack JavaScript Developer with a Front-End focus living near Atlanta, GA!
 
-<!--
-**RSibaja88/RSibaja88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 What you want to know:
 

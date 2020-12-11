@@ -3,7 +3,7 @@ I'm Rodrigo Sibaja, a Full Stack JavaScript Developer with a Front-End focus liv
 
 
 What you want to know:
-
+- 👯 I’m available to discuss employment oppurtunities
 - 👯 I’m looking to collaborate on your open source JS (React, Vue, Node) project
 - 💬 Ask me about my availablity, my current projects, my Netflix habits
 - 📫 How to reach me: rodrigosibaja88@gmail || www.rodrigosibaja.com
